@@ -48,6 +48,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press on SPACE to open the web site. LEERTASTE oder klicken um Webseite zu \u00f6ffnen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -71,6 +76,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press on SPACE to open the web site. LEERTASTE oder klicken um Webseite zu \u00f6ffnen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -94,6 +104,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press on SPACE to open the web site. LEERTASTE oder klicken um Webseite zu \u00f6ffnen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -964,6 +979,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"DJ Table",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 - MrPoeschl"
+                }],
          "spacing":0,
          "tilecount":56,
          "tileheight":32,
