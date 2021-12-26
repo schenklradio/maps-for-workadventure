@@ -2377,6 +2377,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"moving-heads",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 - Poeschl"
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
