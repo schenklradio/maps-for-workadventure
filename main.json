@@ -522,6 +522,11 @@
          "name":"mapName",
          "type":"string",
          "value":"SchenklRadio Assembly"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"scripts\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
