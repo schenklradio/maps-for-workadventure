@@ -1048,15 +1048,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - MrPoeschl"
-                        }]
-                }, 
-                {
                  "animation":[
                         {
                          "duration":150,
@@ -2367,6 +2358,12 @@
          "imagewidth":319,
          "margin":4,
          "name":"holofotes",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 - https:\/\/kauzz.net\/"
+                }],
          "spacing":0,
          "tilecount":63,
          "tileheight":32,
