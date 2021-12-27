@@ -126,7 +126,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"world:\/\/computertruhe\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
