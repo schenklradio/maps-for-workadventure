@@ -20,31 +20,15 @@
          "name":"visit_badge",
          "objects":[
                 {
-                 "height":553.333333333333,
-                 "id":1,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":478.666666666667,
-                 "x":110.666666666667,
-                 "y":161.333333333333
-                }, 
-                {
-                 "height":269.333333333333,
-                 "id":2,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":180,
-                 "x":757.333333333333,
-                 "y":140
-                }, 
-                {
                  "height":633.333333333333,
                  "id":3,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"75d2Saw4hxKdrpiiPNUjIVOvyeeuUF893TSpZoqN8TbzVQYnJA"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -62,25 +46,8 @@
                  "width":0,
                  "x":65.3333333333333,
                  "y":122.666666666667
-                }, 
-                {
-                 "height":613.333333333333,
-                 "id":5,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":892,
-                 "x":64,
-                 "y":120
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"75d2Saw4hxKdrpiiPNUjIVOvyeeuUF893TSpZoqN8TbzVQYnJA"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
