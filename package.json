@@ -1,8 +1,8 @@
 {
-  "name": "workadventure-map-starter-kit",
+  "name": "SchenklRadio-rC3-World",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@workadventure/iframe-api-typings": "^1.5.5",
     "eslint": "^7.24.0",

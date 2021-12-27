@@ -16,6 +16,9 @@ With `npm run build` the compiled `script.js` is build and will be located in th
 
 ## Serving the map to public
 
-For serving all files and the `script.js` the compilation is done by GitHub Actions and will be served over the GitHub Pages mechanism. The
+Compile the script manually with the `compileJS.sh` script and push the new `script.js` to the repository.
+
+~~For serving all files and the `script.js` the compilation is done by GitHub Actions and will be served over the GitHub Pages mechanism.
+The
 compiled `main.json` and all other files file are available on `http://schenklradio.github.io/maps-for-workadventure` after every push to
-the main branch.
+the main branch.~~
