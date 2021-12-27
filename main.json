@@ -144,7 +144,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/computertruhe\/main.json"
+                 "value":"world:\/\/lobby\/kunstinsel.json#start_schenklradio"
                 }],
          "type":"tilelayer",
          "visible":true,
