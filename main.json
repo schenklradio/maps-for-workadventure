@@ -306,7 +306,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"floor",
+         "name":"floor_folder",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -340,7 +340,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"furniture",
+         "name":"furniture_folder",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -386,7 +386,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"walls",
+         "name":"walls_folder",
          "opacity":1,
          "type":"group",
          "visible":true,
