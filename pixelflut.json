@@ -101,7 +101,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"walls",
+         "name":"wall-folder",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -147,7 +147,7 @@
                          "value":"https:\/\/stream.brony.eu\/event\/index.html?station=Pixelflut21&type=webrtc"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":310,
                  "x":165,
