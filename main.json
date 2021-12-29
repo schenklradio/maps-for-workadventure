@@ -248,7 +248,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/schenklradio\/pixelflut.json"
+                         "value":"pixelflut.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,

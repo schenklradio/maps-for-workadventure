@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/schenklradio\/main.json#start_pixelflut"
+                 "value":"main.json#start_pixelflut"
                 }],
          "type":"tilelayer",
          "visible":true,
