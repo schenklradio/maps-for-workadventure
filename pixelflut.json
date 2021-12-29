@@ -162,6 +162,27 @@
  "nextlayerid":14,
  "nextobjectid":2,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC0 - SchenklRadio"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Assembly for #rC3 2021"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/schenklradio.de"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"SchenklRadio Assembly - Pixelflut"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
