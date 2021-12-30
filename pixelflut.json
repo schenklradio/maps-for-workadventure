@@ -144,7 +144,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/stream.brony.eu\/event\/index.html?station=Pixelflut21&type=webrtc"
+                         "value":"https:\/\/stream.brony.eu\/event\/fullscreen.html?station=Pixelflut21&type=webrtc"
                         }],
                  "rotation":0,
                  "type":"website",
