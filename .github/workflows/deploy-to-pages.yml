@@ -1,0 +1,41 @@
+name: Optimize map and deploy
+
+on:
+  - push
+
+jobs:
+
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Optimize map
+        uses: thecodingmachine/map-optimizer-action@master
+
+      - name: Commit optimized files
+        if: github.ref == 'refs/heads/main'
+        run: |
+          ls -al
+          git config --global user.email "studio@schenklradio.de"
+          git config --global user.name "schenklradio"
+          git checkout main
+          git add .
+          git commit -am "Adding files"
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: . # The folder the action should deploy.
+          BASE_BRANCH: main
+
+      - name: List files
+        run: |
+          ls -al
